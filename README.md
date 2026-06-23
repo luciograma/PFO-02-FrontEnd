@@ -19,7 +19,7 @@ El siguiente prompt fue diseñado siguiendo las guías oficiales y ejecutado de 
 <details>
 <summary><b>Haz clic aquí para ver el Prompt Exacto</b></summary>
 
-*<rol_y_objetivo>
+<rol_y_objetivo>
 Actúa como un Diseñador UI/UX Principal y Desarrollador Frontend Senior. Tu tarea es generar de forma completamente autónoma una Landing Page de un solo archivo (Single Page Application) lista para producción.
 </rol_y_objetivo>
 
@@ -47,7 +47,7 @@ Genera la estructura en este orden exacto:
 - Es obligatorio el uso de Flexbox o CSS Grid para la estructura responsiva (Mobile-First).
 - Utiliza imágenes de marcador de posición (placeholders) de alta calidad insertando imágenes estables desde URLs confiables (ej. https://picsum.photos/800/600?random=1) o generadas por CSS con gradientes espaciales.
 - EL FORMATO DE SALIDA DEBE SER EXCLUSIVAMENTE CÓDIGO. No envuelvas el resultado en bloques de markdown (html), no incluyas saludos, ni explicaciones previas o posteriores. Comienza con <!DOCTYPE html> y termina con </html>.
-</restricciones_tecnicas>*
+</restricciones_tecnicas>
 
 </details>
 
