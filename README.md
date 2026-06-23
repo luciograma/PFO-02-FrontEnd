@@ -9,7 +9,7 @@ Este repositorio contiene la entrega de la Práctica Formativa Obligatoria 2 par
 ## 🚀 Despliegue (Deploy)
 El proyecto unificado se encuentra desplegado en Vercel. Puedes acceder a la portada interactiva y a las landing pages generadas desde el siguiente enlace:
 
-👉 **[LINK AL DEPLOY UNIFICADO EN VERCEL AQUÍ]**
+👉 **[https://pfo-02-front-end.vercel.app/]**
 
 ---
 
@@ -58,11 +58,7 @@ Genera la estructura en este orden exacto:
 A continuación, se presentan las capturas de pantalla de los sitios web generados de forma completamente autónoma por cada agente.
 
 ### 1. Resultado del Primer Agente (Cursor)
-*(Agrega aquí una breve observación tuya sobre cómo resolvió el prompt)*
-
 ![Captura Cursor](./assets/captura-cursor.png) 
 
 ### 2. Resultado del Segundo Agente (Codex - OpenAI)
-*(Agrega aquí una breve observación tuya sobre cómo resolvió el prompt)*
-
 ![Captura Codex](./assets/captura-codex.png)
