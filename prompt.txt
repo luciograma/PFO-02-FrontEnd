@@ -1,25 +1,4 @@
-# PFO 2: Prompt Engineering en Agentes de IA 🤖
-
-Este repositorio contiene la entrega de la Práctica Formativa Obligatoria 2 para la materia Frontend del IFTS N.°29. El objetivo del proyecto es evaluar la capacidad de resolución autónoma de dos agentes de inteligencia artificial mediante el diseño de un prompt de alta precisión.
-
-## 👨‍💻 Datos del Estudiante
-* **Nombre y Apellido:** Lucio Gramaccioni
-* **Institución:** IFTS N.°29
-
-## 🚀 Despliegue (Deploy)
-El proyecto unificado se encuentra desplegado en Vercel. Puedes acceder a la portada interactiva y a las landing pages generadas desde el siguiente enlace:
-
-👉 **[LINK AL DEPLOY UNIFICADO EN VERCEL AQUÍ]**
-
----
-
-## 📜 Prompt Maestro Utilizado
-El siguiente prompt fue diseñado siguiendo las guías oficiales y ejecutado de manera idéntica en ambos agentes elegidos (Cursor y Codex) sin realizar modificaciones manuales posteriores en el código generado.
-
-<details>
-<summary><b>Haz clic aquí para ver el Prompt Exacto</b></summary>
-
-*<rol_y_objetivo>
+<rol_y_objetivo>
 Actúa como un Diseñador UI/UX Principal y Desarrollador Frontend Senior. Tu tarea es generar de forma completamente autónoma una Landing Page de un solo archivo (Single Page Application) lista para producción.
 </rol_y_objetivo>
 
@@ -47,22 +26,4 @@ Genera la estructura en este orden exacto:
 - Es obligatorio el uso de Flexbox o CSS Grid para la estructura responsiva (Mobile-First).
 - Utiliza imágenes de marcador de posición (placeholders) de alta calidad insertando imágenes estables desde URLs confiables (ej. https://picsum.photos/800/600?random=1) o generadas por CSS con gradientes espaciales.
 - EL FORMATO DE SALIDA DEBE SER EXCLUSIVAMENTE CÓDIGO. No envuelvas el resultado en bloques de markdown (html), no incluyas saludos, ni explicaciones previas o posteriores. Comienza con <!DOCTYPE html> y termina con </html>.
-</restricciones_tecnicas>*
-
-</details>
-
----
-
-## 📸 Capturas de Pantalla de los Resultados
-
-A continuación, se presentan las capturas de pantalla de los sitios web generados de forma completamente autónoma por cada agente.
-
-### 1. Resultado del Primer Agente (Cursor)
-*(Agrega aquí una breve observación tuya sobre cómo resolvió el prompt)*
-
-![Captura Cursor](./assets/captura-cursor.png) 
-
-### 2. Resultado del Segundo Agente (Codex - OpenAI)
-*(Agrega aquí una breve observación tuya sobre cómo resolvió el prompt)*
-
-![Captura Codex](./assets/captura-codex.png)
+</restricciones_tecnicas>
